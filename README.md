@@ -1,6 +1,8 @@
 # BooBoo 
 
-A Text-based dungeon / adventure game in Python created for COMP1510 at BCIT
+A text-based dungeon / adventure game about a dance academy. 
+
+Written in Python. Created for COMP1510 at BCIT
 
 ### Author
 Danilo Valle
