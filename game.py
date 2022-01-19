@@ -1,3 +1,10 @@
+"""
+Boo Boo
+
+Author: Danilo Valle
+
+"""
+
 
 import time
 import random
